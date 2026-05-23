@@ -163,4 +163,4 @@ See [`implementation/step-by-step-guide.md`](implementation/step-by-step-guide.m
 
 ---
 
-*Project by: [Your Name] | [Your College] | [Branch] | [Year]*
+*Project by: [Yash kaikade] | [Parul university] | [CSF] | [2024-27]*
